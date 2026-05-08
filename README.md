@@ -1,3 +1,3 @@
 Proyecto:programadores-para-la-paz
 Estudiante:Jhon Andres Apache Narvaez
-Descripción:Repositorio con los ejercicios prácticos de la primera semana, enfocados en la organización técnica y la transparencia de la información.
+Descripción:Repositorio dedicado a los ejercicios prácticos del curso, incluyendo la organización técnica, manejo de terminal y control de versiones con Git para las semanas 1 y 2.
