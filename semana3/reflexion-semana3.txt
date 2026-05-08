@@ -1,0 +1,10 @@
+El uso de herramientas como Git es fundamental en el desarrollo de software porque garantiza la trazabilidad de cada cambio realizado.
+Mantener un historial detallado permite identificar errores rápidamente y entender la evolución lógica de un proyecto académico o profesional.
+Esto es especialmente útil en la administración pública y territorial, donde la transparencia y el registro de la información son claves.
+Gracias a los commits, podemos experimentar con el código sabiendo que tenemos una red de seguridad para volver a una versión estable.
+Además, Git facilita la colaboración entre compañeros, evitando que el trabajo de uno sobrescriba el progreso del otro por accidente.
+GitHub, por su parte, actúa como un respaldo en la nube que protege nuestro trabajo ante fallas técnicas en el computador personal.
+Aprender estas herramientas nos prepara para entornos de trabajo más técnicos, organizados y orientados a la eficiencia digital.
+Incluso en proyectos sociales, el control de versiones permite documentar procesos de forma estructurada y profesional.
+En conclusión, Git no es solo una herramienta técnica, sino una metodología de orden que potencia la calidad de cualquier desarrollo.
+Implementar este hábito desde ahora garantiza que nuestros proyectos sean sostenibles y fáciles de auditar en el futuro.
