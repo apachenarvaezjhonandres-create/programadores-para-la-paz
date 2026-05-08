@@ -1,10 +1,10 @@
-El uso de herramientas como Git es fundamental en el desarrollo de software porque garantiza la trazabilidad de cada cambio realizado.
-Mantener un historial detallado permite identificar errores rápidamente y entender la evolución lógica de un proyecto académico o profesional.
-Esto es especialmente útil en la administración pública y territorial, donde la transparencia y el registro de la información son claves.
-Gracias a los commits, podemos experimentar con el código sabiendo que tenemos una red de seguridad para volver a una versión estable.
-Además, Git facilita la colaboración entre compañeros, evitando que el trabajo de uno sobrescriba el progreso del otro por accidente.
-GitHub, por su parte, actúa como un respaldo en la nube que protege nuestro trabajo ante fallas técnicas en el computador personal.
-Aprender estas herramientas nos prepara para entornos de trabajo más técnicos, organizados y orientados a la eficiencia digital.
-Incluso en proyectos sociales, el control de versiones permite documentar procesos de forma estructurada y profesional.
-En conclusión, Git no es solo una herramienta técnica, sino una metodología de orden que potencia la calidad de cualquier desarrollo.
-Implementar este hábito desde ahora garantiza que nuestros proyectos sean sostenibles y fáciles de auditar en el futuro.
+El uso de herramientas como Git es fundamental en el desarrollo de software porque garantiza la trazabilidad de cada cambio en el código.
+Mantener un historial detallado permite identificar errores rápidamente y entender la evolución lógica de una aplicación o sistema.
+Gracias a los commits, podemos desarrollar o  experimentar con nuevas funciones sabiendo que tienen una red de seguridad para volver atrás.
+En el flujo de trabajo profesional, Git facilita la colaboración extrema, permitiendo que varios programadores trabajen en el mismo archivo.
+El control de versiones evita los conflictos de código y asegura que el progreso de un compañero no sobrescriba el trabajo de otro.
+GitHub, por su parte, actúa como un entorno de despliegue y respaldo en la nube que protege el código ante cualquier falla local.
+Aprender a usar Git prepara a los programadores para estándares de la industria, como la integración continua y el trabajo en equipo remoto.
+Cada mensaje de commit ayuda a documentar por qué se tomó una decisión técnica, facilitando el mantenimiento del software a largo plazo.
+En conclusión, Git no es solo una herramienta de guardado, sino una metodología que potencia la calidad y la eficiencia del desarrollo.
+Implementar este flujo de trabajo desde el inicio garantiza que los proyectos sean escalables, organizados y fáciles de auditar por otros.
