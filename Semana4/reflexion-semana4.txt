@@ -1,0 +1,8 @@
+Pienso que es importante que las comunidades puedan crear sus propias herramientas tecnológicas porque así pueden buscar soluciones a sus necesidades.
+Node.js es una tecnología que permite desarrollar proyectos y aprender sobre programación.
+Al ser una tecnología abierta, facilita que más personas puedan conocerla y utilizarla.
+También permite que los jóvenes y las comunidades participen en la creación de soluciones.
+Con estas herramientas se pueden crear plataformas para informar o ayudar a las personas.
+Además, se puede aprender de otros proyectos y mejorar los conocimientos.
+Esto puede ayudar a que las comunidades sean más independientes en el uso de la tecnología.
+En mi opinión, aprender Node.js también abre oportunidades para el futuro.
