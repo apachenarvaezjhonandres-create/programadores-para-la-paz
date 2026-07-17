@@ -1,0 +1,7 @@
+Análisis del endpoint POST /reporte:
+
+1. ¿Qué hace esta ruta?
+Esta ruta utiliza el método HTTP POST para recibir información enviada por el usuario (en este caso, un mensaje en formato JSON dentro del cuerpo de la petición o "body"). El servidor procesa ese JSON mediante "express.json()" y responde confirmando que el reporte fue recibido, devolviendo el mismo mensaje estructurado como un objeto JSON.
+
+2. ¿Para qué podría servir en una aplicación comunitaria?
+En un entorno comunitario, esta ruta POST es de vital importancia porque permite que los ciudadanos envíen reportes activos desde sus celulares o computadores al servidor. Por ejemplo, podría servir para que un vecino envíe de forma organizada reportes sobre el estado de las vías públicas, alertas de seguridad vecinal, o incidentes de convivencia y abandono de animales en espacios públicos. Al usar una API, estos datos se reciben de manera estructurada, listos para ser procesados, guardados en una base de datos o mostrados en un mapa en tiempo real para la toma de decisiones colectivas.

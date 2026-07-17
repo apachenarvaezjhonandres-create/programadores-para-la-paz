@@ -1,0 +1,10 @@
+Resultados de las pruebas en el navegador para la Semana 5:
+
+1. Ruta http://localhost:3000
+   Qué ocurre: El navegador realiza una solicitud GET a la raíz del servidor y este responde mostrando en pantalla el texto "Servidor activo".
+
+2. Ruta http://localhost:3000/saludo
+   Qué ocurre: El servidor procesa la solicitud GET en el endpoint /saludo y responde enviando el texto plano "Hola comunidad".
+
+3. Ruta http://localhost:3000/mensaje/juan
+   Qué ocurre: Esta ruta contiene un parámetro dinámico (:nombre). Al ingresar "juan" en la URL, el servidor captura ese valor usando req.params.nombre y responde de forma personalizada con el texto "Hola juan". Si cambiamos "juan" por cualquier otro nombre, el saludo cambiará automáticamente.
