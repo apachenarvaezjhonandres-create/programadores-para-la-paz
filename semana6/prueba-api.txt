@@ -8,3 +8,5 @@ La respuesta exacta que devuelve el servidor es:
 }
 
 Esto demuestra que el servidor procesa correctamente los datos del cuerpo de la petición (req.body).
+
+Nota de entorno de desarrollo: Esta actividad fue realizada y ejecutada por completo en mi computador local, utilizando el entorno de Visual Studio Code y la terminal de PowerShell en Windows para configurar el servidor Express.js y realizar el control de versiones con Git.
