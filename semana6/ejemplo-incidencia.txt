@@ -1,0 +1,4 @@
+{
+  "tipo": "Servicios públicos y alumbrado",
+  "descripcion": "La comunidad del municipio de Natagaima reporta que una luminaria del parque principal se encuentra intermitente y afecta la seguridad nocturna de los ciudadanos."
+}
