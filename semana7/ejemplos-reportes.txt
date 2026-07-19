@@ -1,0 +1,11 @@
+Ejemplo 1:
+{
+  "tipo": "Seguridad y Convivencia",
+  "descripcion": "Falta de iluminación en el parque principal del sector por bombillo quemado."
+}
+
+Ejemplo 2:
+{
+  "tipo": "Espacio Público",
+  "descripcion": "Obstrucción de la ciclorruta comunitaria por acumulación de escombros de construcción."
+}

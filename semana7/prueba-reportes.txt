@@ -1,0 +1,3 @@
+Al enviar un reporte mediante la ruta POST (enviando el JSON de prueba), el servidor recibe los datos, le asigna un número de ID automáticamente y lo guarda dentro de la lista en memoria llamada 'reportes'. 
+
+Luego, al consultar la ruta GET /reportes, el servidor nos devuelve una lista en formato JSON que contiene todos los reportes que se han registrado desde que el servidor se encendió. Si el servidor se apaga o se reinicia, la lista vuelve a quedar vacía porque los datos se guardan temporalmente en la memoria RAM y no en una base de datos permanente.
