@@ -1,0 +1,5 @@
+Sistema operativo: Es el software principal (como Linux) que administra los recursos físicos del servidor y permite que otros programas funcionen sobre él.
+Node.js: Es el entorno de ejecución que nos permite correr código JavaScript en el lado del servidor, fuera de un navegador web.
+Aplicación server.js: Es el archivo que contiene las instrucciones y rutas de nuestra API, dictando cómo debe responder el servidor a cada solicitud.
+Puerto: Es el canal de comunicación virtual (como el 3000) por donde el servidor escucha las peticiones que llegan desde el exterior.
+Logs: Son los archivos de registro que guardan el historial de eventos y errores, fundamentales para monitorear y diagnosticar el estado del servidor.
