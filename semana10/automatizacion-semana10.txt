@@ -1,0 +1,8 @@
+¿Qué evento activa el flujo?
+El registro de un nuevo reporte de incidencia comunitaria en el sistema.
+
+¿Qué mensaje se enviaría a Telegram?
+"Alerta: Se ha recibido un nuevo reporte en el sistema de veeduría. Por favor, ingresar a la plataforma para revisar los detalles."
+
+¿Qué información no debería enviarse por seguridad?
+No se deben enviar nombres completos de los denunciantes, números de documentos de identidad, direcciones exactas de residencia, números telefónicos, ni claves de acceso.

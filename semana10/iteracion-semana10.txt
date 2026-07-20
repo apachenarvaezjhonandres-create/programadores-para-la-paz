@@ -1,0 +1,10 @@
+¿Qué 2 tareas del backlog harías primero?
+Haría primero la tarea 1 (registrar la incidencia) y luego la tarea 2 (consultar los reportes generales).
+
+¿Por qué son las más importantes?
+Porque sin la capacidad de registrar un reporte no tendríamos información útil con la cual trabajar, y la consulta de reportes permite al equipo de veeduría empezar a gestionar los problemas comunitarios de forma inmediata.
+
+Definición de terminado (Criterios):
+1. La función de registro guarda la información correctamente.
+2. Fue probada a nivel local sin errores.
+3. El avance quedó registrado en el repositorio de Git.
