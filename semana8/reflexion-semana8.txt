@@ -1,0 +1,9 @@
+La seguridad digital es un pilar ético y democrático fundamental para salvaguardar las plataformas tecnológicas de uso comunitario.
+Cuando las comunidades participan en procesos de control social o veedurías ciudadanas, depositan su confianza y datos personales en estos sistemas.
+Si un servidor o una base de datos no se protegen adecuadamente, se abre la puerta a filtraciones que vulneran la privacidad de los usuarios.
+Los ataques malintencionados pueden alterar los registros participativos, distorsionando la voluntad popular y restando legitimidad a los procesos.
+Adicionalmente, la exposición de datos sensibles puede poner en riesgo la integridad física, jurídica o social de los líderes comunitarios.
+Por lo tanto, garantizar la confidencialidad y disponibilidad de estas herramientas blinda el ejercicio democrático frente a sabotajes externos.
+La protección de la infraestructura no es un simple requerimiento técnico secundario, sino una garantía de transparencia para los ciudadanos.
+Una gestión de servidores descuidada rompe el tejido de confianza que sostiene los canales de comunicación entre la base social y la tecnología.
+En conclusión, asegurar los servicios digitales comunitarios es una responsabilidad obligatoria para sostener la participación ciudadana libre.

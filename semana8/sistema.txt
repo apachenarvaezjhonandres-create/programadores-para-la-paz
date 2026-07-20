@@ -1,0 +1,6 @@
+Información que muestra cada comando:
+- uname -a: Muestra la información completa del sistema operativo y del núcleo (kernel) de Linux, incluyendo el nombre del host (máquina), la versión del sistema y la arquitectura del procesador.
+- whoami: Muestra de manera exacta el nombre del usuario actual que tiene la sesión iniciada en la terminal.
+
+Por qué es útil conocer esta información al administrar un servidor:
+Es fundamental conocer el entorno exacto (`uname -a`) para identificar si el sistema operativo requiere parches de seguridad o actualizaciones urgentes ante vulnerabilidades conocidas. Por su parte, verificar la identidad del usuario (`whoami`) permite comprobar de inmediato si el administrador cuenta con los privilegios elevados (como root o superusuario) necesarios para modificar configuraciones críticas, instalar dependencias de la plataforma comunitaria de forma segura o auditar correctamente los accesos del sistema.

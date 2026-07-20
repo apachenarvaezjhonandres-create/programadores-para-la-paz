@@ -1,0 +1,5 @@
+1. No exponer datos personales: Restringir la visualización pública de datos de identificación de los usuarios en cumplimiento de las normativas de protección de datos.
+2. Proteger credenciales: Almacenar claves y tokens de acceso mediante el uso exclusivo de variables de entorno, evitando subir contraseñas en texto plano al código fuente.
+3. Usar conexiones seguras: Implementar protocolos de cifrado de extremo a extremo (como HTTPS y SSL/TLS) para proteger la transferencia de datos en la red.
+4. Registrar accesos de manera estricta: Configurar archivos de logs para documentar y auditar de forma permanente qué usuarios acceden al servidor y qué acciones realizan.
+5. Limitar acceso a información sensible: Aplicar el principio de mínimo privilegio, garantizando que cada rol de la plataforma acceda únicamente a los datos necesarios para su función.
