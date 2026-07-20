@@ -1,0 +1,17 @@
+Entidad: Causa
+Campos principales:
+- id
+- titulo
+- descripcion
+- fecha
+
+Propósito: Almacenar la información principal de los reclamos y peticiones creados por la comunidad para que permanezcan visibles en la plataforma.
+
+Entidad: Apoyo
+Campos principales:
+- id
+- causa_id
+- nombre
+- fecha
+
+Propósito: Registrar la participación y el respaldo que los ciudadanos le dan a cada causa específica, permitiendo contabilizar los apoyos de manera organizada.
